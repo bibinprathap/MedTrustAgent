@@ -1,0 +1,10 @@
+# MedTrust Agent — standalone repo
+
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints
+*.egg-info/
+.venv/
+venv/
+.DS_Store
