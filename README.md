@@ -10,6 +10,8 @@
 [![Tests](https://img.shields.io/badge/tests-69%20passing-brightgreen)](tests/)
 [![Offline](https://img.shields.io/badge/runs-100%25%20offline-success)](#quick-start)
 [![Stdlib-only core](https://img.shields.io/badge/core-stdlib--only-orange)](#architecture)
+[![YouTube Demo](https://img.shields.io/badge/YouTube-Watch%20Demo-red?logo=youtube)](https://youtu.be/ImnzlDVAOXA)
+[![Medium Article](https://img.shields.io/badge/Medium-Read%20Article-black?logo=medium)](https://bibinprathap.medium.com/medtrust-agent-a-zero-trust-observable-llm-agent-framework-for-medical-workflows-6015531e5d96?sharedUserId=bibinprathap)
 
 **Paper:** *MedTrust Agent: A Zero-Trust, Observable LLM Agent Framework for Medical and
 Pharmaceutical Workflows* — NEECON 2026, Dubai (Oct 21–23, 2026), Paper #1571353697.
@@ -23,7 +25,14 @@ This work is a **peer-reviewed research paper**, published in the technical prog
 > **MedTrust Agent: A Zero-Trust, Observable LLM Agent Framework for Medical and
 > Pharmaceutical Workflows** — Bibin Prathap (Abu Dhabi Executive Office, United Arab Emirates)
 > Paper record: <https://edas.info/p35211>
+---
 
+## 📺 Video Walkthrough & Technical Article
+
+* **Watch the live overview and demonstration on YouTube:** [MedTrust Agent Walkthrough](https://youtu.be/ImnzlDVAOXA)
+* **Read the full engineering breakdown on Medium:** [MedTrust Agent: A Zero-Trust, Observable LLM Agent Framework for Medical Workflows](https://bibinprathap.medium.com/medtrust-agent-a-zero-trust-observable-llm-agent-framework-for-medical-workflows-6015531e5d96?sharedUserId=bibinprathap)
+
+---
 MedTrust Agent is an **example implementation** of the governed-agent architecture
 described in the [VeritasGraph](../README.md) project. It reuses the VeritasGraph
 stack's design principles — provenance at write time, deterministic retrieval,
